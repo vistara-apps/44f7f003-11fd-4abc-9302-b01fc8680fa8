@@ -7,11 +7,11 @@
   "frame": {
     "version": "1",
     "name": "LicenseFlow",
-    "homeUrl": "https://licenseflow.app",
+    "homeUrl": "https://app-c8680fa8-1sdn.vercel.app",
     "iconUrl": "https://licenseflow.app/icon.png",
     "splashImageUrl": "https://licenseflow.app/splash.png",
     "splashBackgroundColor": "#0a1628",
-    "webhookUrl": "https://licenseflow.app/api/webhook",
+    "webhookUrl": "https://app-c8680fa8-1sdn.vercel.app/api/webhook",
     "subtitle": "Ship compliant open-source projects",
     "description": "AI-powered license compliance and dependency scanning for developers. Get expert recommendations, scan dependencies, and generate attribution files in minutes.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://licenseflow.app/screenshot3.png"
     ],
     "primaryCategory": "developer-tools",
-    "tags": ["license", "compliance", "open-source", "developer-tools", "ai"],
+    "tags": [
+      "license",
+      "compliance",
+      "open-source",
+      "developer-tools",
+      "ai"
+    ],
     "heroImageUrl": "https://licenseflow.app/og-image.png",
     "tagline": "Ship compliant projects in minutes",
     "ogTitle": "LicenseFlow - Open-Source License Compliance",

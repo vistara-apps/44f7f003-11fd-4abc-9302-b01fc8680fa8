@@ -1,0 +1,14 @@
+{
+  "name": "LicenseFlow",
+  "description": "LicenseFlow is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://44f7f003-11fd-4abc-9302-b01fc8680fa8.vercel.app",
+  "properties": {
+    "app": {
+      "name": "LicenseFlow",
+      "description": "LicenseFlow is a Base Mini App built with Zara.",
+      "url": "https://44f7f003-11fd-4abc-9302-b01fc8680fa8.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
